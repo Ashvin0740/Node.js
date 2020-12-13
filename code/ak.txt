@@ -1,0 +1,1 @@
+creat this file to read content and show sumthing in this file 
