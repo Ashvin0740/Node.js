@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "cwh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashvin",
+  "license": "ISC",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
